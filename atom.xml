@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fengfei3701.github.io</id>
+    <title>乒乓投资</title>
+    <updated>2020-06-20T14:04:37.954Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fengfei3701.github.io"/>
+    <link rel="self" href="https://fengfei3701.github.io/atom.xml"/>
+    <subtitle>上证A股 | 可转债打新 | 港股打新 | 基金定投 | pi币 | 虚拟货币投资 </subtitle>
+    <logo>https://fengfei3701.github.io/images/avatar.png</logo>
+    <icon>https://fengfei3701.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 乒乓投资</rights>
+    <entry>
+        <title type="html"><![CDATA[试一试]]></title>
+        <id>https://fengfei3701.github.io/post/shi-yi-shi/</id>
+        <link href="https://fengfei3701.github.io/post/shi-yi-shi/">
+        </link>
+        <updated>2020-06-20T13:20:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>这个是导语</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这个是导语</p>
+<!-- more -->
+<h2 id="wenzhang-标题">wenzhang 标题</h2>
+<p>内容12312312312312312312</p>
+<h2 id="第二段">第二段</h2>
+<p>123123123123123123123</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过个人博客记录自己投资的点点滴滴 | 乒乓投资]]></title>
+        <id>https://fengfei3701.github.io/post/tong-guo-ge-ren-bo-ke-ji-lu-zi-ji-tou-zi-de-dian-dian-di-di-or-ping-pang-tou-zi/</id>
+        <link href="https://fengfei3701.github.io/post/tong-guo-ge-ren-bo-ke-ji-lu-zi-ji-tou-zi-de-dian-dian-di-di-or-ping-pang-tou-zi/">
+        </link>
+        <updated>2020-06-19T14:33:08.000Z</updated>
+        <summary type="html"><![CDATA[<pre><code>做一个普通人、一个奋斗者、一个梦想家、一个逐渐实现财务自由的人  
+</code></pre>
+]]></summary>
+        <content type="html"><![CDATA[<pre><code>做一个普通人、一个奋斗者、一个梦想家、一个逐渐实现财务自由的人  
+</code></pre>
+<!-- more -->
+<h2 id="12312312312312">12312312312312</h2>
+<pre><code>12312312312312312312312312
+213123123123123123
+</code></pre>
+<h2 id="123123">123123</h2>
+<pre><code>  撇除作为一个计算机毕业生与生俱来建站的欲望外，开通个人博客其实是因为在头条发的文章直接被和谐了，整个打理的账号化为一片废墟，所以萌生了一个搭建个人博客的想法。毕业这么多年其实很多知识都忘了，还好遇到Gridea，让我傻瓜式搭个站点的想法成为现实。
+</code></pre>
+<h2 id="1213">1213</h2>
+<pre><code>  建立个人博客，主要是为了方便记录自己投资的点点滴滴，记录自己的成长和成长过程中的弯路，如果遇到感兴趣的事情，也有个途径发表自己的意见。既然主要是记录自己的投资点滴，就简单说说自己的投资内容。
+  A股投资6年，目前以中短线为主，参与可转债打新和基金定投，今年中短线投资收益大概在30%，希望今年能继续保持，控制回撤。近期参与了港股打新，基本算是从头开始，刚好可以在博客记录全部的过程。去年开始接触虚拟货币，不过不以炒币为主，找一些新的好项目参与，算是挖矿的一员，目前主要参与Pi币挖矿。
+  基本的情况就是这样，后面遇到好的机会和内容还会继续丰富。希望可以一只坚持初衷，通过博客记录投资过程中的点点滴滴，做一个普通人、一个奋斗者、一个梦想家、一个逐渐实现财务自由的人。**</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://fengfei3701.github.io/post/hello-gridea/</id>
+        <link href="https://fengfei3701.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
