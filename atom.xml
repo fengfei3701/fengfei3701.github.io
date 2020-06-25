@@ -2,53 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fengfei3701.github.io</id>
     <title>乒乓投资</title>
-    <updated>2020-06-20T14:04:37.954Z</updated>
+    <updated>2020-06-25T13:27:32.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://fengfei3701.github.io"/>
     <link rel="self" href="https://fengfei3701.github.io/atom.xml"/>
-    <subtitle>上证A股 | 可转债打新 | 港股打新 | 基金定投 | pi币 | 虚拟货币投资 </subtitle>
+    <subtitle>上证A股 | 可转债打新 | 港美股打新 | 基金定投 | pi币 | Ecoin | 虚拟货币投资 </subtitle>
     <logo>https://fengfei3701.github.io/images/avatar.png</logo>
     <icon>https://fengfei3701.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 乒乓投资</rights>
     <entry>
-        <title type="html"><![CDATA[试一试]]></title>
-        <id>https://fengfei3701.github.io/post/shi-yi-shi/</id>
-        <link href="https://fengfei3701.github.io/post/shi-yi-shi/">
+        <title type="html"><![CDATA[Markdown语法]]></title>
+        <id>https://fengfei3701.github.io/post/markdown语法/</id>
+        <link href="https://fengfei3701.github.io/post/markdown语法/">
         </link>
-        <updated>2020-06-20T13:20:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>这个是导语</p>
+        <updated>2020-06-24T14:02:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>Markdown语法，以备以后使用时查阅。<br>
+<img src="https://fengfei3701.github.io/post-images/1593007933856.png" alt="" loading="lazy"></p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>这个是导语</p>
+        <content type="html"><![CDATA[<p>Markdown语法，以备以后使用时查阅。<br>
+<img src="https://fengfei3701.github.io/post-images/1593007933856.png" alt="" loading="lazy"></p>
 <!-- more -->
-<h2 id="wenzhang-标题">wenzhang 标题</h2>
-<p>内容12312312312312312312</p>
-<h2 id="第二段">第二段</h2>
-<p>123123123123123123123</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过个人博客记录自己投资的点点滴滴 | 乒乓投资]]></title>
-        <id>https://fengfei3701.github.io/post/tong-guo-ge-ren-bo-ke-ji-lu-zi-ji-tou-zi-de-dian-dian-di-di-or-ping-pang-tou-zi/</id>
-        <link href="https://fengfei3701.github.io/post/tong-guo-ge-ren-bo-ke-ji-lu-zi-ji-tou-zi-de-dian-dian-di-di-or-ping-pang-tou-zi/">
-        </link>
-        <updated>2020-06-19T14:33:08.000Z</updated>
-        <summary type="html"><![CDATA[<pre><code>做一个普通人、一个奋斗者、一个梦想家、一个逐渐实现财务自由的人  
-</code></pre>
-]]></summary>
-        <content type="html"><![CDATA[<pre><code>做一个普通人、一个奋斗者、一个梦想家、一个逐渐实现财务自由的人  
-</code></pre>
 <!-- more -->
-<h2 id="12312312312312">12312312312312</h2>
-<pre><code>12312312312312312312312312
-213123123123123123
-</code></pre>
-<h2 id="123123">123123</h2>
-<pre><code>  撇除作为一个计算机毕业生与生俱来建站的欲望外，开通个人博客其实是因为在头条发的文章直接被和谐了，整个打理的账号化为一片废墟，所以萌生了一个搭建个人博客的想法。毕业这么多年其实很多知识都忘了，还好遇到Gridea，让我傻瓜式搭个站点的想法成为现实。
-</code></pre>
-<h2 id="1213">1213</h2>
-<pre><code>  建立个人博客，主要是为了方便记录自己投资的点点滴滴，记录自己的成长和成长过程中的弯路，如果遇到感兴趣的事情，也有个途径发表自己的意见。既然主要是记录自己的投资点滴，就简单说说自己的投资内容。
-  A股投资6年，目前以中短线为主，参与可转债打新和基金定投，今年中短线投资收益大概在30%，希望今年能继续保持，控制回撤。近期参与了港股打新，基本算是从头开始，刚好可以在博客记录全部的过程。去年开始接触虚拟货币，不过不以炒币为主，找一些新的好项目参与，算是挖矿的一员，目前主要参与Pi币挖矿。
-  基本的情况就是这样，后面遇到好的机会和内容还会继续丰富。希望可以一只坚持初衷，通过博客记录投资过程中的点点滴滴，做一个普通人、一个奋斗者、一个梦想家、一个逐渐实现财务自由的人。**</code></pre>
+<h1 id="一级标题">一级标题</h1>
+<h2 id="二级标题">二级标题</h2>
+<h3 id="三级标题">三级标题</h3>
+<h4 id="四级标题">四级标题</h4>
+<h5 id="五级标题">五级标题</h5>
+<h6 id="六级标题">六级标题</h6>
+<p><em>斜体文本</em><br>
+<em>斜体文本</em><br>
+<strong>粗体文本</strong><br>
+<strong>粗体文本</strong><br>
+<em><strong>粗斜体文本</strong></em><br>
+<em><strong>粗斜体文本</strong></em></p>
+<h1 id="分隔线">分隔线</h1>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<h1 id="删除线">删除线</h1>
+<p>RUNOOB.COM<br>
+GOOGLE.COM<br>
+<s>BAIDU.COM</s></p>
+<h1 id="下划线">下划线</h1>
+<p><u>带下划线文本</u></p>
+<h1 id="markdown-列表">Markdown 列表</h1>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+<ol>
+<li>
+<p>第一项</p>
+</li>
+<li>
+<p>第二项</p>
+</li>
+<li>
+<p>第三项</p>
+</li>
+<li>
+<p>第一项：</p>
+<ul>
+<li>第一项嵌套的第一个元素</li>
+<li>第一项嵌套的第二个元素</li>
+</ul>
+</li>
+<li>
+<p>第二项：</p>
+<ul>
+<li>第二项嵌套的第一个元素</li>
+<li>第二项嵌套的第二个元素</li>
+</ul>
+</li>
+</ol>
+<h1 id="markdown-区块">Markdown 区块</h1>
+<blockquote>
+<p>区块引用<br>
+菜鸟教程<br>
+学的不仅是技术更是梦想</p>
+</blockquote>
+<blockquote>
+<p>最外层</p>
+<blockquote>
+<p>第一层嵌套</p>
+<blockquote>
+<p>第二层嵌套</p>
+</blockquote>
+</blockquote>
+</blockquote>
+<blockquote>
+<p>区块中使用列表</p>
+<ol>
+<li>第一项</li>
+<li>第二项</li>
+</ol>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+</blockquote>
+<ul>
+<li>第一项
+<blockquote>
+<p>菜鸟教程<br>
+学的不仅是技术更是梦想</p>
+</blockquote>
+</li>
+<li>第二项</li>
+</ul>
+<h1 id="markdown-链接">Markdown 链接</h1>
+<p><a href="%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80">链接名称</a></p>
+<p>或者</p>
+<p>&lt;链接地址&gt;</p>
+<p>这是一个链接 <a href="https://www.runoob.com">菜鸟教程</a></p>
+<h1 id="markdown-图片">Markdown 图片</h1>
+<figure data-type="image" tabindex="1"><img src="%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80" alt="alt 属性文本" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80" alt="alt 属性文本" title="可选标题" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://static.runoob.com/images/runoob-logo.png" alt="RUNOOB 图标" title="RUNOOB" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
