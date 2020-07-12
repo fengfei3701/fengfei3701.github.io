@@ -2119,13 +2119,13 @@ body {
         margin: 0 auto;
       }
     body {
-      color: #555;
+      color: #212529;
     }
     .next-md-body {
-      color: #555;
+      color: #212529;
     }
     .next-md-body h1, .next-md-body h2 {
-      border-bottom-color: #555;
+      border-bottom-color: #212529;
     }
     .archive-timeline-box::after, .tag-timeline-wrapper::after {
       background: #eeeeeefe;
@@ -2144,31 +2144,30 @@ body {
     .node-title::before {
       background-color: #555;
     }a {
-      color: #555;
+      color: #212529;
     }
     
     .next-md-body a, .friends-box a  {
-      color: #555;
-      border-bottom: 1px solid #555;
+      color: #212529;
+      border-bottom: 1px solid #212529;
     }a:hover {
-      color: #222;
+      color: #c92a2a;
     }
     
     .archive-timeline-box .tag-node:hover::before {
-      background-color: #222;
+      background-color: #c92a2a;
     }
     
     .markdownIt-TOC a:hover {
-      color: #222;
-      border-bottom-color: #222;
+      color: #c92a2a;
+      border-bottom-color: #c92a2a;
     }
 
     .next-md-body a:hover, .friends-box a:hover {
-      color: #222;
-      border-bottom-color: #222;
-    }
-    .nav-toggle .line {
-      background-color:  !important;
+      color: #c92a2a;
+      border-bottom-color: #c92a2a;
+    }.nav-toggle .line {
+      background-color: #eee !important;
     }
       .nav-item a {
         color:  #555;
@@ -2191,8 +2190,8 @@ body {
       transition-duration: 59s;
       transition-timing-function: cubic-bezier(.34,0,.84,1);
     }.markdownIt-TOC a {
-      color: #212529;
-      border-bottom-color: #212529;
+      color: #eee;
+      border-bottom-color: #eee;
     }.markdownIt-TOC a:hover {
       color: #fff;
       border-bottom-color: #fff;
@@ -2227,10 +2226,10 @@ body {
       background: #fffffffe;
     }
     .main-title, .brand {
-      color: #e03131 !important;
+      color: #c92a2a !important;
     }
     .mist .site-title i {
-      background: #e03131fe;
+      background: #c92a2afe;
     }.box-shadow-wrapper {
       box-shadow: none !important;
     }body {

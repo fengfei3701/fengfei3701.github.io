@@ -5,11 +5,11 @@
   <meta charset="UTF-8" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="keywords" content="上证A股、可转债打新、港美股打新、基金定投、pi币、Ecoin、虚拟货币等投资 ">
+<meta name="keywords" content="上证A股 | 可转债打新 | 港美股打新 | 基金定投 | pi币 | Ecoin | 虚拟货币投资 ">
 <meta name="description" content="上证A股 | 可转债打新 | 港美股打新 | 基金定投 | pi币 | Ecoin | 虚拟货币投资 ">
 <meta name="theme-color" content="#fff">
 <title>Markdown语法 | 乒乓投资</title>
-<link rel="shortcut icon" href="/favicon.ico?v=1593092302965">
+<link rel="shortcut icon" href="/favicon.ico?v=1594560350511">
 <link rel="stylesheet" href="/media/css/pisces.css">
 <link rel="stylesheet" href="/media/fonts/font-awesome.css">
 <link
@@ -64,8 +64,6 @@
             </a>  
           
         </div>
-        
-          <p class="subtitle">上证A股 | 可转债打新 | 港美股打新 | 基金定投 | pi币 | Ecoin | 虚拟货币投资 </p>
         
       </div>
       <nav class="site-nav" id="site_nav">
@@ -738,28 +736,54 @@ GOOGLE.COM<br>
 </div>
             
             
-  
-    
-      <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/valine@1.4.14/dist/Valine.min.js"></script>
+<div id="vcomments" style="padding: 10px 0px 0px 0px"></div>
 
-<div id="gitalk-container"></div>
+<style>
+  .v .veditor {
+    min-height: 10rem;
+    background-image: url('');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgba(255, 255, 255, 0);
+    resize: none;
+  }
 
+  .v .vwrap {
+    border: 1px solid #000 !important;
+  }
+
+  .v .vbtn {
+    padding: .4rem 1.2rem !important;
+    border-color: #fff !important;
+    background-color: #49b1f5 !important;
+    color: #fff !important;
+    font-size: .7rem !important;
+  }
+
+  .v .vcards .vcard .vh .vmeta .vat {
+    padding: 0 .8rem !important;
+    border: 1px solid #00c4b6 !important;
+    border-radius: 5px !important;
+    color: #00c4b6 !important;
+  }
+</style>
 <script>
-  var gitalk = new Gitalk({
-    clientID: 'a1fcd62ca051e07ca671',
-    clientSecret: 'c5aa3a81c06e85628e2e142641ca5b3757ac4390',
-    repo: 'fengfei3701.github.io',
-    owner: 'fengfei3701',
-    admin: ['fengfei3701'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-  gitalk.render('gitalk-container')
+  new Valine({
+    el: '#vcomments',
+    appId: 'dsmSn9xjjxns134h0xm6MWwb-gzGzoHsz',
+    appKey: 'XHsRoEj8DNBOM9OJIymHuLfl',
+    avatar: '',
+    placeholder: '',
+    pageSize: '',
+    lang: 'zh-cn',
+    enableQQ: 'true' === 'false',
+    visitor: 'true' === 'false',
+    highlight: 'true' === 'true',
+    avatarForce: 'true' === 'false',
+  });
 </script>
-    
-    
-  
 
           </div>
         </div>
@@ -768,11 +792,10 @@ GOOGLE.COM<br>
     <div class="footer-box">
   <footer class="footer">
     <div class="copyright">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | © 2019-2020 Theme By <a
-        href="https://github.com/hsxyhao/gridea-theme-next" target="_blank">HsxyHao</a>
+     
     </div>
     <div class="poweredby">
-      Powered by <a href="https://fengfei3702.github.io
+      Powered by <a href="https://fengfei3701.github.io
 " target="_blank">乒乓投资</a>
     </div>
   </footer>
@@ -917,7 +940,7 @@ GOOGLE.COM<br>
   }
 
   // 链接跳转
-  let newWindow = 'false'
+  let newWindow = 'true'
   if (newWindow === 'true') {
     let links = document.querySelectorAll('.post-body a')
     links.forEach(item => {
